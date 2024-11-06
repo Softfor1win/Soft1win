@@ -11,9 +11,13 @@ const translations = {
         traps: "tələ",
         play: "Siqnal alın",
     },
+    🇰🇬: {
+        traps: "тузак",
+        play: "Сигнал алуу",
+    },
     uz: {
-        traps: "tuzoq",
-        play: "Signalni oling",
+    traps: "tuzoq",
+    play: "Signalni oling",
     }
 };
 
