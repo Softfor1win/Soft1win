@@ -14,6 +14,10 @@ const translations = {
     uz: {
         traps: "tuzoq",
         play: "Signalni oling",
+    },
+    ky: {
+        traps: "тузак",
+        play: "Сигнал алуу",
     }
 };
 
